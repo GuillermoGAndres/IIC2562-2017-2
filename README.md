@@ -3,6 +3,10 @@
 ## 2017-2
 Bienvenidos a la página de apoyo del curso Taller de Programación II.
 
+Web site
+https://programacioncompetitivapuc.github.io/IIC2552-2021-1/resources/cpp
+
+
 ## Material de Apoyo
 
 ### General
